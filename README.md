@@ -1,2 +1,2 @@
 # devTools-recommendations-react
-Created with CodeSandbox
+Webapp to view recommendations for development tools. Built with React.
